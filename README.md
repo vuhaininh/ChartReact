@@ -1,5 +1,5 @@
 ## Overview
-This repository contains a simple React project for data visualization
+This repository contains a simple React project for data visualization:
 * A chart showing the values per month
 * An indicator showing the values for the current month
 * An indicator showing the values compared to the previous month
